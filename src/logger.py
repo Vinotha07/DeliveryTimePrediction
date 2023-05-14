@@ -17,6 +17,3 @@ logging.basicConfig(
 )
 
 
-if __name__=='__main__':
-    a=5
-    logging.info(a)
